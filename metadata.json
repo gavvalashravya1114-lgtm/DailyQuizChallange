@@ -1,0 +1,5 @@
+{
+  "name": "Daily Quiz App",
+  "description": "A fun daily quiz app that delivers a new 5-question quiz each day on random topics. It uses Gemini to generate fresh questions and stores results locally for users to track their performance.",
+  "requestFramePermissions": []
+}
